@@ -14,7 +14,8 @@ export const CatQuote = () => {
 
     return (
         <div>
-            {item.quoteText}
+            <img src='img/1.png'/>
+            <p>Test text with image</p>
         </div>
     );
 };

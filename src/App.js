@@ -1,8 +1,8 @@
 import React from 'react';
 import { Provider } from "react-redux";
 
-import store from '../../redux/store';
-import { CatQuote } from '../CatQuote/CatQuote';
+import store from './redux/store';
+import { CatQuote } from './components/CatQuote/CatQuote';
 
 function App() {
   return (
