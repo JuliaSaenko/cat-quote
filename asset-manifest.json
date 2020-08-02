@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cat-quote/static/css/main.90e01849.chunk.css",
-    "main.js": "/cat-quote/static/js/main.00085b7c.chunk.js",
-    "main.js.map": "/cat-quote/static/js/main.00085b7c.chunk.js.map",
+    "main.js": "/cat-quote/static/js/main.b257c071.chunk.js",
+    "main.js.map": "/cat-quote/static/js/main.b257c071.chunk.js.map",
     "runtime-main.js": "/cat-quote/static/js/runtime-main.aaf01545.js",
     "runtime-main.js.map": "/cat-quote/static/js/runtime-main.aaf01545.js.map",
     "static/js/2.5597a76b.chunk.js": "/cat-quote/static/js/2.5597a76b.chunk.js",
     "static/js/2.5597a76b.chunk.js.map": "/cat-quote/static/js/2.5597a76b.chunk.js.map",
     "index.html": "/cat-quote/index.html",
-    "precache-manifest.0ff3b81ec225941c08654060f0172eca.js": "/cat-quote/precache-manifest.0ff3b81ec225941c08654060f0172eca.js",
+    "precache-manifest.b43d050067976633d15aa337e9867841.js": "/cat-quote/precache-manifest.b43d050067976633d15aa337e9867841.js",
     "service-worker.js": "/cat-quote/service-worker.js",
     "static/css/main.90e01849.chunk.css.map": "/cat-quote/static/css/main.90e01849.chunk.css.map",
     "static/js/2.5597a76b.chunk.js.LICENSE.txt": "/cat-quote/static/js/2.5597a76b.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.aaf01545.js",
     "static/js/2.5597a76b.chunk.js",
     "static/css/main.90e01849.chunk.css",
-    "static/js/main.00085b7c.chunk.js"
+    "static/js/main.b257c071.chunk.js"
   ]
 }
