@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/https,://juliasaenko.github.io/cat-quote/static/css/main.d17b182f.chunk.css",
-    "main.js": "/https,://juliasaenko.github.io/cat-quote/static/js/main.42ae762b.chunk.js",
-    "main.js.map": "/https,://juliasaenko.github.io/cat-quote/static/js/main.42ae762b.chunk.js.map",
+    "main.js": "/https,://juliasaenko.github.io/cat-quote/static/js/main.765652aa.chunk.js",
+    "main.js.map": "/https,://juliasaenko.github.io/cat-quote/static/js/main.765652aa.chunk.js.map",
     "runtime-main.js": "/https,://juliasaenko.github.io/cat-quote/static/js/runtime-main.f53fdc82.js",
     "runtime-main.js.map": "/https,://juliasaenko.github.io/cat-quote/static/js/runtime-main.f53fdc82.js.map",
     "static/js/2.6b95cd87.chunk.js": "/https,://juliasaenko.github.io/cat-quote/static/js/2.6b95cd87.chunk.js",
     "static/js/2.6b95cd87.chunk.js.map": "/https,://juliasaenko.github.io/cat-quote/static/js/2.6b95cd87.chunk.js.map",
     "index.html": "/https,://juliasaenko.github.io/cat-quote/index.html",
-    "precache-manifest.6099876c15baf80fbb98f30259f9e6fb.js": "/https,://juliasaenko.github.io/cat-quote/precache-manifest.6099876c15baf80fbb98f30259f9e6fb.js",
+    "precache-manifest.620470d1d3dcce9747e16b7a3e236d2e.js": "/https,://juliasaenko.github.io/cat-quote/precache-manifest.620470d1d3dcce9747e16b7a3e236d2e.js",
     "service-worker.js": "/https,://juliasaenko.github.io/cat-quote/service-worker.js",
     "static/css/main.d17b182f.chunk.css.map": "/https,://juliasaenko.github.io/cat-quote/static/css/main.d17b182f.chunk.css.map",
     "static/js/2.6b95cd87.chunk.js.LICENSE.txt": "/https,://juliasaenko.github.io/cat-quote/static/js/2.6b95cd87.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.f53fdc82.js",
     "static/js/2.6b95cd87.chunk.js",
     "static/css/main.d17b182f.chunk.css",
-    "static/js/main.42ae762b.chunk.js"
+    "static/js/main.765652aa.chunk.js"
   ]
 }

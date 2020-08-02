@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a22ee937b859fe434e715d3c42fd26b3",
+    "revision": "987f270df91d7e7c34fcac5633ef5187",
     "url": "/https,://juliasaenko.github.io/cat-quote/index.html"
   },
   {
-    "revision": "9d9f030675fe669d1a6a",
+    "revision": "13c86684fcb59542e4c4",
     "url": "/https,://juliasaenko.github.io/cat-quote/static/css/main.d17b182f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/https,://juliasaenko.github.io/cat-quote/static/js/2.6b95cd87.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9d9f030675fe669d1a6a",
-    "url": "/https,://juliasaenko.github.io/cat-quote/static/js/main.42ae762b.chunk.js"
+    "revision": "13c86684fcb59542e4c4",
+    "url": "/https,://juliasaenko.github.io/cat-quote/static/js/main.765652aa.chunk.js"
   },
   {
     "revision": "154accbc76c11d7c1624",
