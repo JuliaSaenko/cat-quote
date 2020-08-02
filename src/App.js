@@ -1,13 +1,17 @@
 import React from 'react';
 import { Provider } from "react-redux";
 
-import store from './redux/store';
 import { CatQuote } from './components/CatQuote/CatQuote';
+
+import store from './redux/store';
+
+import './App.scss';
+
 
 function App() {
   return (
       <Provider store={store}>
-        <div>
+        <div className='main'>
             <CatQuote />
         </div>
       </Provider>
